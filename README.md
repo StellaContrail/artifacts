@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# レポート
+数学と物理と他もろもろなレポートをまとめてホイしてる
 
-You can use the [editor on GitHub](https://github.com/StellaContrail/reports/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## 俺のファイルたち
+* [フーリエ変換とは](../pdf/フーリエ変換とは.pdf)  
+フーリエ変換についての数学的な基礎を抑える
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* [球形原子核における平均ポテンシャルとは](../pdf/球形原子核における平均ポテンシャルとは.pdf)  
+変形していない原子核内の核子について計算するときに必要となる平均ポテンシャルについて
 
-### Markdown
+* [円周率を積み木で計算する方法](../pdf/円周率を積み木で計算する方法.pdf)  
+実は円周率は積み木を衝突させれば計算できる
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* [感染をシミュレーションする](../pdf/感染をシミュレーションする.pdf)  
+感染の拡がりを再現した結果、「３密を守ること」と「隔離・自粛」が重要であることがわかった。
 
-```markdown
-Syntax highlighted code block
+* [固有時間とローレンツ変換とは](../pdf/固有時間とローレンツ変換とは.pdf)  
+相対論によると、「過去」「現在」「未来」の区別に意味はない。その境界線は曖昧である。
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/StellaContrail/reports/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* [相対論における分布関数とは](../pdf/相対論における分布関数とは.pdf)  
+粒子の分布は相対論による補正を受けるか。
